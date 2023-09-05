@@ -14,7 +14,6 @@ Heyy 🙋🏻‍♀️, Thank you for visiting my profile! Continue reading to k
 *   🌍  I'm based in Agadir City
 *   🖥️  See my portfolio at [MyPortfolio](http://rachpro1234.github.io/rachid-portfolio/)
 *   ✉️  You can contact me at [elbarqouqyrachid@gmail.com](mailto:elbarqouqyrachid@gmail.com)
-*   🚀  I'm currently working on [Advice Generator App](http://rachpro1234.github.io/Advice-Generator-App/)
 *   🧠  I'm learning React.js
 *   🤝  I'm open to collaborating on open Source Projects
 *
