@@ -1,47 +1,76 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rach
-============================================================================================================================
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rachpro1234.rachpro1234" />
 
-Front End Developer
--------------------
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rachid+EL+Barqouqy!;" />
+</h1>
 
-Heyy 🙋🏻‍♀️, Thank you for visiting my profile! Continue reading to know more about my journey✨.
+<h3 align="center">A passionate software developer from Morocco Ma</h3>
 
-- Since childhood, the subject of Computer Science has always fascinated me. A few years back I realized that my passion for programming and solving problems could be transformed into a full-time career, so I started pursuing it.
--  But at that time, I didn’t realize that there are so many things to learn in this field other than what I was taught in school. Technically, I started to learn to program when I was 18 years old (the language I first learned was HTML) because of the simplicity of it, but at that time I didn’t know what I wanted to specifically pursue in the programming field, therefore, in 2021, when I had taken it seriously due to the covid time we've been through, I stumbled upon the FreeCodeCamp Website, and since then, my actual learning started and I got immersed in learning Web Development.
--   Currently, I am learning Front End Development Deeply. Looking for freelance work/remote job or internship and to collaborate on open source projects
--    I am a curious person and an avid reader. Feel free to connect with me to talk about tech, books, etc. 🤝🏻
+<br/>
 
-*   🌍  I'm based in Agadir City
-*   🖥️  See my portfolio at [MyPortfolio](http://rachpro1234.github.io/rachid-portfolio/)
-*   ✉️  You can contact me at [elbarqouqyrachid@gmail.com](mailto:elbarqouqyrachid@gmail.com)
-*   🧠  I'm learning React.js in depth.
-*   🤝  I'm open to collaborating on open Source Projects
+<div align="center">
+ 
+ 🔭 I’m currently working on a Nextjs Eco-Store named **Rachhop**
+ 
+ 🌱 I’m currently learning **MySQL, Rebuilding my Portfolio**
 
+💬 Ask me about **Next.js, React, Firebase... or anything [here](https://github.com/rachpro1234/rachpro1234/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:elbarqouqyrachid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/rachid-el-barqouqy-945783262/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://rachpro1234.github.io/rachid-portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,nextjs,mysql,redux" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rachpro1234/rachpro1234/output/github-contribution-grid-snake.svg" />
   
-  ### 🌱 Skills
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-</p>
+  <br/><br/><br/>
+</div>
 
+<hr/>
 
- ### Socials
-<p align="left">                     
- <a href="https://www.github.com/rachpro1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>                     
-<a href="https://www.linkedin.com/in/Rachid-EL-Barqouqy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>                     
-<a href="https://www.twitter.com/rachelbarqouqy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-rachpro1234.vercel.app/?user=rachpro1234&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-rachpro1234.vercel.app/api?username=rachpro1234&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-rachpro1234.vercel.app/api/top-langs/?username=rachpro1234&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-### 📈 GitHub Stats</b>
+<br/><br/>
 
-<a href="http://www.github.com/rachpro1234"><img src="https://github-readme-stats.vercel.app/api?username=rachpro1234&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="rachpro1234's GitHub stats" /></a>
-                
-<a href="http://www.github.com/rachpro1234"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rachpro1234&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<hr/>
 
+<br/>
 
-<a href="http://www.github.com/rachpro1234"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rachpro1234&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-<a href="https://github.com/rachpro1234" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachpro1234&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<br/>
