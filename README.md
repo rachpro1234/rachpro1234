@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on a Nextjs Eco-Store named **Rachhop**
  
- 🌱 I’m currently learning **MySQL, Rebuilding my Portfolio**
+ 🌱 I’m currently learning **Express JS, Rebuilding my Portfolio**
 
-💬 Ask me about **Next.js, React, Firebase... or anything [here](https://github.com/rachpro1234/rachpro1234/issues)**
+💬 Ask me about **Next.js, React, Express... or anything [here](https://github.com/rachpro1234/rachpro1234/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
